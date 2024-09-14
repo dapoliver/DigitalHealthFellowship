@@ -2,7 +2,7 @@
 
 This is the code outlining a potential modelling pipeline for **Using digital phenotyping to improve research studies of people at clinical high risk of severe mental disorders**. This is focused on the analysis for WP2 as the training listed as part of my fellowship plans will be needed prior to the design of the pipeline for WP3. 
 
-In this script I:
+This script:
 
 * Generates a synthetic dataset that is representative of the processed dataset I will be using in WP2
 * Sets up a repeated nested cross validation framework function for logistic regression and random forests
